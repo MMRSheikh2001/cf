@@ -5,7 +5,7 @@
     margin: 5px;
     color: blueviolet;
     font-size: x-large;
-    
+    text-decoration: none;
 }
 .nav{
     background-color: beige;
@@ -13,23 +13,24 @@
     height: 10vh;
     
 }
-a:link{
+/* a:link{
     color: green;
     background-color: transparent;
     text-decoration: none;
-}
+} */
 a:hover{
     color: blue;
-    background-color: transparent;
+    background-color: white;
     text-decoration: dotted;
+    padding: 3px;
 }
 a:active{
     color: yellow;
-    background-color: black;
+    background-color: green;
     text-decoration: underline;
 }
 a:visited{
-    color: red;
+    color: none;
     background-color: aliceblue;
     text-decoration: line-through;
 }

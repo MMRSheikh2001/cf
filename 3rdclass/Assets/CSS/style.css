@@ -1,9 +1,9 @@
-/* table,tr,th,td{
+table,tr,th,td{
 
     border-collapse: collapse;
     text-align: center;
     border: 1px solid #e60b66;
-} */
+}
 table {
     width: 100%;
 }
@@ -14,44 +14,6 @@ table {
     border: 1px solid #e60b66;
 }
 
-#nav ul,
-#nav li {
-    list-style: none;
-    float: left;
-    margin: 2px;
-    color: rgb(40, 43, 212);
-    font-size: 15vh;
-    border: 2p solid black;
-}
 
-#nav {
-    background-color: transparent;
-    width: 100%;
-    height: 20vh;
 
-}
-a:link{
-    color: green;
-    background-color: transparent;
-    text-decoration: none;
-}
-a:hover{
-    color: blue;
-    background-color: transparent;
-    text-decoration: dotted;
-}
-a:active{
-    color: yellow;
-    background-color: black;
-    text-decoration: underline;
-}
-a:visited{
-    color: red;
-    background-color: aliceblue;
-    text-decoration: line-through;
-}
-/* h1{
-    width: 100%;
-    text-align: center;
-} */
 
