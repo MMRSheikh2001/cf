@@ -6,11 +6,12 @@
     color: blueviolet;
     font-size: x-large;
     text-decoration: none;
+    display: flex;
 }
 .nav{
     background-color: beige;
     width: 100%;
-    height: 10vh;
+    height: auto;
     
 }
 /* a:link{
