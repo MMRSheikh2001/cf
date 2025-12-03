@@ -1,3 +1,15 @@
+.nav ul{
+    padding: 0;
+    margin: 0;
+    background-color: aqua;
+    
+}
+
+
+
+
+
+
 .nav ul,
 .nav li{
     list-style: none;
@@ -6,14 +18,15 @@
     color: blueviolet;
     font-size: x-large;
     text-decoration: none;
-    display: flex;
+    display: inline-flexbox;
+    overflow: visible;
 }
-.nav{
-    background-color: beige;
+/* .nav{
+    background-color: green;
     width: 100%;
     height: auto;
     
-}
+} */
 /* a:link{
     color: green;
     background-color: transparent;
